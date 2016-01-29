@@ -3,7 +3,7 @@
 * **Kursuseprogramm:** [IFI6093](http://www.cs.tlu.ee/instituut/oppe_tegevus/kp/kp_k_2016/)
 * **Õpetaja:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 * **Testserver:** lin2.tlu.ee, greeny.cs.tlu.ee ([tunneli loomise juhend](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/09/veebipr/naited/greenytunnel/greenytunnel.pdf))
-* **Tunni näited:** [~romil/vk16k](minitorn.cs.tlu.ee/~romil/vk16k)
+* **Tunni näited:** [~romil/vk16k](http://minitorn.cs.tlu.ee/~romil/vk16k)
 * **Rühmad:** [I rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k?utf8=%E2%9C%93&query=-I-ruhm), [II rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k?utf8=%E2%9C%93&query=-II-ruhm),
 
 ## Kodused tööd ja projektid
@@ -17,7 +17,7 @@ Kõik kodused tööd on välja toodud [Kursus](#Kursus) tundide loendis.
   ```
   git clone https://USERNAME@github.com/USERNAME/REPOSITORY.git
   ```
-1. Lisa ka oma nimi ja email repositooriumi omanikuks [Setting your username](https://help.github.com/articles/setting-your-username-in-git/)
+1. Lisa ka oma nimi ja email repositooriumi omanikuks ([Setting your username](https://help.github.com/articles/setting-your-username-in-git/))
 1. Muuda faile ülesande lahendamiseks ja *Commit*'i iga olulisem muudatus, kasutades kahte käsku.
   ```
   git add .
@@ -134,7 +134,7 @@ Need rakenduvad ka päris elus!
 * [CodePen](http://codepen.io/pen/)
 * [JSFiddle](http://jsfiddle.net/)
 
-## Git
+### Git
 * [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 
 ## Litsents
