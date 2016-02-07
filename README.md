@@ -84,12 +84,12 @@ Need rakenduvad ka päris elus!
 ### 2. tund
 
 1. Iseseisva töö demo tervele klassile
-1. JS Rakenduse ülesehitus (objektorienteeritud kood)
-    * JS "use strict" (w3schools)[http://www.w3schools.com/js/js_strict.asp], (ECMAScript 5 Strict Mode)[http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/]
+1. JS rakenduse ülesehitus (objektorienteeritud kood)
+    * JS "use strict" – [w3schools](http://www.w3schools.com/js/js_strict.asp), [ECMAScript 5 Strict Mode](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
     * Kasutame Singleton mustrit (Loe kindlasti mustrite kohta lähemalt [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani)
 1. Tunnitöö
     * Tee oma rakendus objektorienteerituks ümber, lähtu tunnis õpitust
-    * Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad (What the heck is the event loop anyway?)[https://www.youtube.com/watch?v=8aGhZQkoFbQ] by Philip Roberts 
+    * Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts 
 
 ## Materjalid ja tööriistad
 
