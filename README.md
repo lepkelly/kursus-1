@@ -89,7 +89,13 @@ Need rakenduvad ka päris elus!
     * Kasutame Singleton mustrit (Loe kindlasti mustrite kohta lähemalt [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani)
 1. Tunnitöö
     * Tee oma rakendus objektorienteerituks ümber, lähtu tunnis õpitust
-    * Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts 
+    * Vaata kuidas ja mis järjekorras JS ning brauser koostööd teevad [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
+
+### 3. tund
+
+1. Mitu navigeeritavat lehekülge ühes failis | soovituslik lugemine [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/) By Heydon Pickering
+1. [normalize.css](https://necolas.github.io/normalize.css/) ja [eset.css](http://meyerweb.com/eric/tools/css/reset/) | mis on nende erinevus, milleks kasutatakse?
+1. CSSi kokkupakkijad, nt [cssminifier.com](https://cssminifier.com). PS! Kursuse teises pooles vaatame ka [Gulp](http://gulpjs.com)'i kasutusvõimalusi arendamisprotsessi kiirendamisel aga praegu piirdume online tööriistadega.
 
 ## Materjalid ja tööriistad
 
