@@ -93,7 +93,7 @@ Need rakenduvad ka päris elus!
 
 ### 3. tund
 
-1. Mitu navigeeritavat lehekülge ühes failis | soovituslik lugemine [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/) By Heydon Pickering
+1. Mitu navigeeritavat lehekülge ühes failis | soovituslik lugemine [Reimagining Single-Page Applications With Progressive Enhancement](https://www.smashingmagazine.com/2015/12/reimagining-single-page-applications-progressive-enhancement/) by Heydon Pickering
 1. [normalize.css](https://necolas.github.io/normalize.css/) ja [eset.css](http://meyerweb.com/eric/tools/css/reset/) | mis on nende erinevus, milleks kasutatakse?
 1. CSSi kokkupakkijad, nt [cssminifier.com](https://cssminifier.com). PS! Kursuse teises pooles vaatame ka [Gulp](http://gulpjs.com)'i kasutusvõimalusi arendamisprotsessi kiirendamisel aga praegu piirdume online tööriistadega.
 
