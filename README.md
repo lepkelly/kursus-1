@@ -97,6 +97,13 @@ Need rakenduvad ka päris elus!
 1. [normalize.css](https://necolas.github.io/normalize.css/) ja [reset.css](http://meyerweb.com/eric/tools/css/reset/) | mis on nende erinevus, milleks kasutatakse?
 1. CSSi kokkupakkijad, nt [cssminifier.com](https://cssminifier.com). PS! Kursuse teises pooles vaatame ka [Gulp](http://gulpjs.com)'i kasutusvõimalusi arendamisprotsessi kiirendamisel aga praegu piirdume online tööriistadega.
 
+### 4. tund
+
+1. Andmete salvestamine local storage'isse ([HTML5 local storage / web storage](http://www.w3schools.com/html/html5_webstorage.asp)). Katseta järgi palju seda [toetatud](http://caniuse.com/#search=localstorage) brauserisse mahub ([Test of localStorage limits/quota](https://arty.name/localstorage.html), palju see MB'des teeb?).
+1. Kõige efektiivsem filtreerimine toimub CSS'i abil elementide näitamise ja peitmise kaudu ([stackoverflow näide](http://stackoverflow.com/a/15597786))
+1. Lisa juurde täiendav funktsionaalsus, mis võimaldaks tunnis loodud rakenduses loendist elemente kustutatda. Abiks kasuta massiivist kustutamist ([slice()](http://www.w3schools.com/jsref/jsref_slice_array.asp)) ja näiteks data-atribuute ([How to Use HTML5 Data Attributes](http://www.sitepoint.com/use-html5-data-attributes/)) elementide küljes nt indexi edastamiseks, et mille peale vajutati.
+
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
