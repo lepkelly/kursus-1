@@ -103,6 +103,16 @@ Need rakenduvad ka päris elus!
 1. Kõige efektiivsem filtreerimine toimub CSS'i abil elementide näitamise ja peitmise kaudu ([stackoverflow näide](http://stackoverflow.com/a/15597786))
 1. Lisa juurde täiendav funktsionaalsus, mis võimaldaks tunnis loodud rakenduses loendist elemente kustutatda. Abiks kasuta massiivist kustutamist ([slice()](http://www.w3schools.com/jsref/jsref_slice_array.asp)) ja näiteks data-atribuute ([How to Use HTML5 Data Attributes](http://www.sitepoint.com/use-html5-data-attributes/)) elementide küljes nt indexi edastamiseks, et mille peale vajutati.
 
+### 5. tund
+
+1. Andmete salvestamine textifaili läbi PHP ja seal andmete küsimine, [AJAX](http://www.w3schools.com/ajax/)
+1. GET või POSTi kasutamine andmete salvestamiseks? [vastus](http://www.w3schools.com/ajax/ajax_xmlhttprequest_send.asp) 
+1. Ainult samalt domeenilt andmete saamine (kui teine enda server, siis tegelikult midagi annab konfigureerida), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+1. ÜLESANNE, [typer mängu](https://github.com/veebirakenduste-kasutajaliidesed-2016k/typer) täiendus (tee FORK!). 
+  * Muuda skooriarvutuse algoritmi vasvalt maitsele (nt arvesta kulunud aega, tehtud eksimusi, sõna pikkust kui konfitsenti, juhuarve vms)
+  * Salvesta vähemalt mängija nimi ja skoor tunnis õpitu abil tekstifaili, kus järjesta need
+  * Mängu laadimisel teata seni kõrgeim skoor
+1. Mõttekoht, kuidas oleks võimalik vältida cheatimist?
 
 ## Materjalid ja tööriistad
 
