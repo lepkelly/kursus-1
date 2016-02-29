@@ -106,6 +106,7 @@ Need rakenduvad ka päris elus!
 ### 5. tund
 
 1. Andmete salvestamine textifaili läbi PHP ja seal andmete küsimine, [AJAX](http://www.w3schools.com/ajax/)
+1. PHP AJAXi piirang [Detect an AJAX Request in PHP](https://davidwalsh.name/detect-ajax)
 1. GET või POSTi kasutamine andmete salvestamiseks? [vastus](http://www.w3schools.com/ajax/ajax_xmlhttprequest_send.asp) 
 1. Ainult samalt domeenilt andmete saamine (kui teine enda server, siis tegelikult midagi annab konfigureerida), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 1. ÜLESANNE, [typer mängu](https://github.com/veebirakenduste-kasutajaliidesed-2016k/typer) täiendus (tee FORK!). 
