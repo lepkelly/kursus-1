@@ -104,7 +104,7 @@ Need rakenduvad ka päris elus!
 1. Lisa juurde täiendav funktsionaalsus, mis võimaldaks tunnis loodud rakenduses loendist elemente kustutatda. Abiks kasuta massiivist kustutamist ([slice()](http://www.w3schools.com/jsref/jsref_slice_array.asp)) ja näiteks data-atribuute ([How to Use HTML5 Data Attributes](http://www.sitepoint.com/use-html5-data-attributes/)) elementide küljes nt indexi edastamiseks, et mille peale vajutati.
 1. Hea näide kustutamisest [TODO in HTML5 and plain JavaScript](http://code-maven.com/todo-in-html-and-javascript)
 
-### 5. tund
+### 5.- 6. tund
 
 1. Andmete salvestamine textifaili läbi PHP ja seal andmete küsimine, [AJAX](http://www.w3schools.com/ajax/)
 1. PHP AJAXi piirang [Detect an AJAX Request in PHP](https://davidwalsh.name/detect-ajax)
@@ -115,6 +115,8 @@ Need rakenduvad ka päris elus!
   * Salvesta vähemalt mängija nimi ja skoor tunnis õpitu abil tekstifaili, kus järjesta need
   * Mängu laadimisel teata seni kõrgeim skoor
 1. Mõttekoht, kuidas oleks võimalik vältida cheatimist?
+
+1. KORDAMINE
 
 ## Materjalid ja tööriistad
 
