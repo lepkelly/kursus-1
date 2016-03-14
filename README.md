@@ -104,19 +104,26 @@ Need rakenduvad ka päris elus!
 1. Lisa juurde täiendav funktsionaalsus, mis võimaldaks tunnis loodud rakenduses loendist elemente kustutatda. Abiks kasuta massiivist kustutamist ([slice()](http://www.w3schools.com/jsref/jsref_slice_array.asp)) ja näiteks data-atribuute ([How to Use HTML5 Data Attributes](http://www.sitepoint.com/use-html5-data-attributes/)) elementide küljes nt indexi edastamiseks, et mille peale vajutati.
 1. Hea näide kustutamisest [TODO in HTML5 and plain JavaScript](http://code-maven.com/todo-in-html-and-javascript)
 
-### 5.- 6. tund
+### 5. - 6. tund
 
 1. Andmete salvestamine textifaili läbi PHP ja seal andmete küsimine, [AJAX](http://www.w3schools.com/ajax/)
 1. PHP AJAXi piirang [Detect an AJAX Request in PHP](https://davidwalsh.name/detect-ajax)
-1. GET või POSTi kasutamine andmete salvestamiseks? [vastus](http://www.w3schools.com/ajax/ajax_xmlhttprequest_send.asp) 
+1. GET või POSTi kasutamine andmete salvestamiseks? [vastus](http://www.w3schools.com/ajax/ajax_xmlhttprequest_send.asp)
 1. Ainult samalt domeenilt andmete saamine (kui teine enda server, siis tegelikult midagi annab konfigureerida), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-1. ÜLESANNE, [typer mängu](https://github.com/veebirakenduste-kasutajaliidesed-2016k/typer) täiendus (tee FORK!). 
+1. ÜLESANNE, [typer mängu](https://github.com/veebirakenduste-kasutajaliidesed-2016k/typer) täiendus (tee FORK!).
   * Muuda skooriarvutuse algoritmi vasvalt maitsele (nt arvesta kulunud aega, tehtud eksimusi, sõna pikkust kui konfitsenti, juhuarve vms)
   * Salvesta vähemalt mängija nimi ja skoor tunnis õpitu abil tekstifaili, kus järjesta need
   * Mängu laadimisel teata seni kõrgeim skoor
 1. Mõttekoht, kuidas oleks võimalik vältida cheatimist?
 
 1. KORDAMINE
+
+### 7. - 8. tund
+
+1. Admin paneel ja rakendus eraldi
+1. Võrguühenduseta töötav rakenduse meelespea
+1. Failide cache'imine ja uuendamine [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
+1. Näidisrakenduse loomine, mis teab võrgu kättesaadavust ja jälgib selle muutumist
 
 ## Materjalid ja tööriistad
 
