@@ -130,6 +130,8 @@ Need rakenduvad ka päris elus!
 1. [Add to homescreen](http://cubiq.org/add-to-home-screen) stiilis rakenduse loomine
 1. [JS Device API](https://www.w3.org/standards/techs/js#w3c_all)'d
 1. [Ikooni genereerija](http://realfavicongenerator.net)
+1. [Chrome manifest](https://developer.chrome.com/multidevice/android/installtohomescreen)
+1. [JS accelorometer](http://www.albertosarullo.com/blog/javascript-accelerometer-demo-source)
 
 ## Materjalid ja tööriistad
 
