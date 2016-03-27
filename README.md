@@ -125,6 +125,12 @@ Need rakenduvad ka päris elus!
 1. Failide cache'imine ja uuendamine [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
 1. Näidisrakenduse loomine, mis teab võrgu kättesaadavust ja jälgib selle muutumist
 
+### 9. tund
+1. [Chrome remote debugging](https://developer.chrome.com/devtools/docs/remote-debugging)
+1. [Add to homescreen](http://cubiq.org/add-to-home-screen) stiilis rakenduse loomine
+1. [JS Device API](https://www.w3.org/standards/techs/js#w3c_all)'d
+1. [Ikooni genereerija](http://realfavicongenerator.net)
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
