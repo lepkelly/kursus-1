@@ -118,20 +118,25 @@ Need rakenduvad ka päris elus!
 
 1. KORDAMINE
 
-### 7. - 8. tund
+### 7. tund
 
 1. Admin paneel ja rakendus eraldi
 1. Võrguühenduseta töötav rakenduse meelespea
 1. Failide cache'imine ja uuendamine [A Beginner's Guide to Using the Application Cache](http://www.html5rocks.com/en/tutorials/appcache/beginner/)
 1. Näidisrakenduse loomine, mis teab võrgu kättesaadavust ja jälgib selle muutumist
 
-### 9. tund
+### 8. tund
 1. [Chrome remote debugging](https://developer.chrome.com/devtools/docs/remote-debugging)
 1. [Add to homescreen](http://cubiq.org/add-to-home-screen) stiilis rakenduse loomine
 1. [JS Device API](https://www.w3.org/standards/techs/js#w3c_all)'d
 1. [Ikooni genereerija](http://realfavicongenerator.net)
 1. [Chrome manifest](https://developer.chrome.com/multidevice/android/installtohomescreen)
 1. [JS accelorometer](http://www.albertosarullo.com/blog/javascript-accelerometer-demo-source)
+
+### 9.tund
+1. [Google Developers console](https://console.developers.google.com)
+1. [Google Maps API](https://developers.google.com/maps/documentation/javascript/examples/)
+1. [Google Maps Style genereerija](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
 
 ## Materjalid ja tööriistad
 
