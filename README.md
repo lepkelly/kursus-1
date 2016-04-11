@@ -8,7 +8,13 @@
 
 ## Kodused tööd ja projektid
 
-Kõik kodused tööd on välja toodud [Kursus](#Kursus) tundide loendis.
+* 1. kodutöö ([I rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/1.kodutoo-I-ruhm), [II rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/1.kodutoo-II-ruhm))
+* 2. kodutöö ([I rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/2.vk-kodutoo-I-ruhm), [II rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/2.vk-kodutoo-II-ruhm))
+* 3. kodutöö ([I rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/3.vk-kodutoo-I-ruhm), [II rühm](https://github.com/veebirakenduste-kasutajaliidesed-2016k/3.vk-kodutoo-II-ruhm))
+
+**Kodused tööd peavad olema lõplikult valmis esitatud vähemalt nädal enne valitud eksamiaega.**
+
+* [projekt](https://github.com/veebirakenduste-kasutajaliidesed-2016k/vk-projekt)
 
 ### GitHub'i töövoog
 
