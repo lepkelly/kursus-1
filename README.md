@@ -144,6 +144,30 @@ Need rakenduvad ka päris elus!
 1. [Google Maps API](https://developers.google.com/maps/documentation/javascript/examples/)
 1. [Google Maps Style genereerija](http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html)
 
+### 10.tund
+1. [Twitter API](https://dev.twitter.com/rest/public/search)
+1. [Twitter API exchange](https://github.com/J7mbo/twitter-api-php/blob/master/TwitterAPIExchange.php)
+ 
+### 11.tund
+Täiendavad käsud
+```
+git fetch
+
+git pull
+
+git add failinimi.txt
+
+git rm failinimi.txt
+
+//kustuta juba olematu fail
+git add -u 
+
+//lisa oma nimi ja meiliaadress
+git config user.name "Romil"
+git config user.email "romilrobtsenkov@users.noreply.github.com"
+
+```
+
 ## Materjalid ja tööriistad
 
 ### Tunnis kasutatud rakendused
